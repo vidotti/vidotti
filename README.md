@@ -1,32 +1,22 @@
-## Sobre mim
+# Olá, eu sou Victor Vidotti 👋
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando com a stack angular e typescript.
-- 🌱 Aprendendo mais sobre Java.
+Eu sou desenvolvedor(a) front-end e trabalho com aplicações web modernas e responsivas.
 
-## Minhas Skills
+## 📫 Contato
+- E-mail: vidotti.ai@gmail.com
 
-**Aplicações e dados**
+## 💻 Stack Front-End
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+Aqui estão algumas das tecnologias que eu utilizo:
 
-**DevOps**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+</p>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-victorvidotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorvidotti/)](https://www.linkedin.com/in/victorvidotti/)
-[![Gmail Badge](https://img.shields.io/badge/-vidotti.ai@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vidotti.ai@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/vidotti?style=social)](https://github.com/vidotti)
+## 🌱 Sobre mim
+- Estou sempre aprendendo novas tecnologias e melhores práticas de front-end.
+- Interessado(a) em projetos que envolvam Angular, TypeScript e JavaScript.
+- Aprendendo Java.
